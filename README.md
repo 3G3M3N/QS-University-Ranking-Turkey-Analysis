@@ -5,7 +5,7 @@ Hello, ı used this dataset from https://www.kaggle.com/datasets/padhmam/qs-worl
 
 This dataset include 2017-2022 datas.
 
-There are 6482 row in this dataset. This mean like 1050 University, but can be new entrants.
+There are 6482 row in this dataset. This mean like 1050 University, but can be new entrants for a year.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
