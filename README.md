@@ -105,7 +105,7 @@ NaN
 <img width="485" alt="2022qs" src="https://user-images.githubusercontent.com/83331577/184129180-5ac1ab39-fd74-47c3-8a9f-5d3013692f57.PNG">
 
 
-21 University. Bilkent, Sabancı, Koç PRİVATE, İzmir Institute, İstanbul Bilgi, İstanbul Aydın are PRİVATE University.
+21 University. Bilkent, Sabancı, Koç, İzmir Institute, İstanbul Bilgi, İstanbul Aydın are PRİVATE University.
 
 City:
 
