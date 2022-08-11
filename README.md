@@ -67,7 +67,7 @@ Removed:
 
 <img width="734" alt="2020qs" src="https://user-images.githubusercontent.com/83331577/184121595-da9ac1a3-760a-4dac-b9d4-1fc6731d6571.PNG">
 
-10 University. Bilkent, Sabancı, Koç are PRİVATE University.
+9 University. Bilkent, Sabancı, Koç are PRİVATE University.
 
 City:
 
