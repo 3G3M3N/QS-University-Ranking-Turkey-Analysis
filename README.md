@@ -119,10 +119,26 @@ City:
 
 New Entrants:
 
-Anadolu, İstanbul Aydın, İstanbul Bilgi, Akdeniz, Çukurova, Marmara, Sakarya 
+Anadolu, İstanbul Aydın, İstanbul Bilgi, Akdeniz, Çukurova, Marmara, Sakarya University
 
 Removed:
 
 NaN
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**2023 Turkish Universit's  QS Ranking:**
+
+<img width="485" alt="2023qs" src="https://user-images.githubusercontent.com/83331577/219353404-215fcab5-c58e-43c3-8447-14dd32910f52.PNG">
+
+City:
+
+9 Istanbul, 5 Ankara, 3 İzmir, 1 Eskişehir, 1 Antalya, 1 Adana, 1 Sakarya
+
+New Entrants:
+
+Anadolu, İstanbul Aydın, İstanbul Bilgi, Akdeniz, Çukurova, Marmara, Sakarya University
+
+Removed:
+
+NaN
