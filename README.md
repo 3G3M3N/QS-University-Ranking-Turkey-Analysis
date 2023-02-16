@@ -131,14 +131,18 @@ NaN
 
 <img width="485" alt="2023qs" src="https://user-images.githubusercontent.com/83331577/219353404-215fcab5-c58e-43c3-8447-14dd32910f52.PNG">
 
+24 University. Bilkent, Sabancı, Koç, İzmir Institute, İstanbul Bilgi, İstanbul Aydın are PRİVATE University.
+
 City:
 
-9 Istanbul, 5 Ankara, 3 İzmir, 1 Eskişehir, 1 Antalya, 1 Adana, 1 Sakarya
+9 Istanbul, 5 Ankara, 3 İzmir, 1 Eskişehir, 1 Antalya, 1 Adana, 1 Sakarya, 1 Erciyes, 1 Erzurum, 1 Kocaeli 
 
 New Entrants:
 
-Anadolu, İstanbul Aydın, İstanbul Bilgi, Akdeniz, Çukurova, Marmara, Sakarya University
+Erciyes, Erzurum, Kocaeli Institute University
 
 Removed:
 
 NaN
+
+**New Entrants increasing every year but QS University List is too increasing. For example in 2022 they did research 1200 University but 2023 1400. So actualy Turkish University's are not gaining things (maybe they are gainings) actually researched scholl list is growing.**
