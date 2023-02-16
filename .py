@@ -35,3 +35,7 @@ turkey2022 = turkey.loc[(turkey["year"]==2022)]
 turkey2022
 turkey2022.shape
 turkey2022["city"].value_counts()
+
+df = pd.read_csv("2023 QS World University Rankings.csv")
+Turkey2023 = df.loc[df["location code"]=="TR"]
+Turkey2023
