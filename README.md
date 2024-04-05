@@ -151,8 +151,12 @@ NaN
 
 <img width="485" alt="qs1" src="https://github.com/3G3M3N/QS-University-Ranking-Turkey-Analysis/assets/83331577/5ec31e76-b483-4533-a0b2-1a269f3aba49">
 <br>
-</br>
 <img width="485" alt="qs2" src="https://github.com/3G3M3N/QS-University-Ranking-Turkey-Analysis/assets/83331577/1f8682a2-30f5-4b08-8f2b-62d4a4f82536">
+<br>
+A graph plotted with Matplotlib:
+<img width="550" alt="qs2" src="https://github.com/3G3M3N/QS-University-Ranking-Turkey-Analysis/assets/83331577/b0cbc5ae-b7b6-4b7b-9137-57c2afcd70ed">
+
+
 
 Important Note:
 
