@@ -42,3 +42,4 @@ Turkey2023
 
 yeni_2024 = pd.read_csv("2024 QS World University Rankings 1.1 (For qs.com).csv")
 turkish2024 = yeni_2024.loc[df["Country"]=="Turkey"]
+turkish2024
