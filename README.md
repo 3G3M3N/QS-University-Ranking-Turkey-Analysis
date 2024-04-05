@@ -147,6 +147,10 @@ NaN
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+**2023 Turkish Universit's  QS Ranking:**
+<img width="485" alt="qs1" src="https://github.com/3G3M3N/QS-University-Ranking-Turkey-Analysis/assets/83331577/5ec31e76-b483-4533-a0b2-1a269f3aba49">
+
+
 Important Note:
 
 **New Entrants increasing every year but QS University List is too increasing. For example in 2022 they did research 1200 University but 2023 1400. So actualy Turkish University's are not gaining things (maybe they are gainings) actually researched scholl list is growing.**
