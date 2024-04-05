@@ -154,6 +154,7 @@ NaN
 <img width="485" alt="qs2" src="https://github.com/3G3M3N/QS-University-Ranking-Turkey-Analysis/assets/83331577/1f8682a2-30f5-4b08-8f2b-62d4a4f82536">
 <br>
 A graph plotted with Matplotlib:
+<br>
 <img width="550" alt="qs2" src="https://github.com/3G3M3N/QS-University-Ranking-Turkey-Analysis/assets/83331577/b0cbc5ae-b7b6-4b7b-9137-57c2afcd70ed">
 
 
